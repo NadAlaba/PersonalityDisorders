@@ -12,3 +12,5 @@ Brief close-up Introduction:
 4. Obsessive-Compulsive Personality Disorder (OCPD): is characterized by excessive concern with conformity and standards of conscience; the individual may be rigid, overconscientious, overdutiful, overinhibited, and unable to relax (three Ps - punctual, parsimonius and precise).
 5. Avoidant Personality Disorder: is characterized by low levels of energy, easy fatigability, lack of enthusiasm, inability to enjoy life and oversensitivity to stress.
 6. Dependent Personality Disorder:is characterized by passive and submissive behavior; the person is unsure of himself or herself and becomes entirely dependent on others.
+
+7. Antisocial Personality Disorder: covers persons in conflict with society 
