@@ -1,10 +1,10 @@
 Personality Disorders
 
-Preface:
+_Preface:
 1. Personality disorders are characterized by deeply engrained, generally lifelong maladaptive patterns of behavior that are usually recognizable at adolescence or earlier.
 
 
-Brief close-up Introduction:
+_Brief close-up Introduction:
 1. Paranoid Personality Disorder: is characterized by unwarranted suspicion, hypersensitivity, jealousy, envy, rigidity, excessive self-importance, and a tendency to blame and ascribe evil motives to others.
 2. Schizoid Personality Disorder: is characterized by shyness, oversensitivity, seclusiveness, avoidance of close or competitive relationships, eccentricity, no loss of capacity to recognize reality, daydreaming and an ability to express hostility and aggression.
 3. Schizotypal Personality Disorder: is similar to schizoid personality, but the person also exhibits slight losses of reality testing, has odd beliefs, and is aloof and withdrawn.
