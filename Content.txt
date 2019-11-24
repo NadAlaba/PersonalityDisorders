@@ -32,11 +32,27 @@ Cluster C: anxious and fearful features (Syn Ch22)
 Personality Changes Due to Another Medical Condition: This category includes alterations to a personality due to a medical condition (e.g, brain tumor).
 Unspecified Personality Disorder: This category involves other personality traits that do not fit any of the patterns described above.
 
+_Etiology:
+(Syn Ch22)
+1. Genetic factors: Evidence that GFs contribute to PDs comes from investigations of more that 15,000 pairs of twins in the US, where the concordance of PDs among monozygotic twins was several times that among dizygotic twins. Moreover, according to 1 study, monozygotic twins reared apart are about as similar as monozygotic twins reared together.
+-Cluster A PDs are more common in the biological relatives of patients with schizophrenia than in control groups. Correlation between schizotypal PD and schizophrenia is more than in between paranoid or schizoid PD and Schizophrenia.
+-Cluster B PDs: Depression is common in the family backgrounds of patients with Borderline PD, and these patients have more relatives with mood disorders than do control groups, and persons with borderline PD often have a mood disorder as well. {Antisocial PD is associated with alcohol use disorders. A strong association is found between histrionic disorder and somatization disorder (Briquet's syndrome).}
+{-Cluster C PDs: Patients with Avoidant PD often have high anxiety levels. Patients with OCPD show some signs associated with depression, e.g, shortened REM latency period and abnormal dexamethasone suppression test (DST) results.}
+
+2. Biological factors:
+-Hormones: Persons who exhibit impulsive traits also often show high levels of testosterone, 17-estradiol, and esterone. In nonhuman primates androgens increase the likelihood of aggression and sexual behavior, but the role of testosterone in human aggression is unclear. DST results are abnormal in some patients with borderline PD who also have depressive symptoms.
+-Platelet Monoamine Oxidase:Low MAO levels have been noted in some patients with scizotypal disorders.
+-Smooth Pursuit Eye Movements:Smooth Pursuit eye movements are saccadic (jumpy) in persons who are [introverted], who have [low self-esteem] and [tend to withdraw], and who have schizotypal [personality disorder]. These findings have no clinical application, but they do indicate the role of inheritance.
+-Neurotransmitters: Endorphines (and exogenous morphine) have an arousal suppression effect, also high endogenous endorphin levels may be associated with persons who are phlegmatic. Studies of personality traits and the dopaminergic and serotonergic systems indicate an arousal-activating function for these neurotransmitters. Levels of 5-hydroxyindoleacetic acid (5-HIAA), a metabolite of serotonin, are low in persons who attempt suicide and in patients who are impulsive and aggressive, also, raising serotonin with serotonergic agents such as fluoxetine (Prozac) can produce dramatic changes in some character traits of personality. In many persons, serotonin reduces depression, impulsiveness, and rumination and can produce a sense of general well-being. Increased dopamine concentrations in the CNS produced by certain psychostimulants (Amphetamines) can induce euphoria.
+-Electrophysiology: Changes in electrical conductance on the electroencephalogram (EEG) occur in some patients with personality disorders, most commonly antisocial and borderline types; these changes appear as slow-wave activity on EEGs.
+
+3. Psychoanalytic factors:
+
 _Epidemiology:
 (Syn Ch22)
 -Personality disorders occur in 10 to 20 percent of the general population.
 -Approximately %50 of all psychiatric patients have a personality disorder, which is frequently comorbid with other clinical syndromes.
--Personality disorder is also a predisposing factor for other psychiatric disordrs (e.g, substance use, suicide, affective disorders, impulse-control disorders, eating disorders, and anxiety disorders) in which it interferes with treatment outcomes of many clinical syndromes and increases personal incapacitation, morbidity, and mortality of these patients.
+-Personality disorder is also a predisposing factor for other psychiatric disorders (e.g, substance use, suicide, affective disorders, impulse-control disorders, eating disorders, and anxiety disorders) in which it interferes with treatment outcomes of many clinical syndromes and increases personal incapacitation, morbidity, and mortality of these patients.
 
 _Notes:
 (Syn Ch22)
