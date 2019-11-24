@@ -60,3 +60,61 @@ _Notes:
 -In general, personality disorder symptoms are ego syntonic (i.e, acceptable to the ego, as opposed to ego dystonic) and alloplastic (i.e, adapt by trying to alter the external environment rather than themselves).
 -Persons with PD do not feel anxiety about their maladaptive behavior.
 -Individuals frequently exhibit traits that are not limited to a single PD.
+
+Paranoid Personality Disorder:
+-Persons with paranoid PD are characterized by long-standing suspiciousness and mistrust of persons in general. They refuse responsibility for their own feelings and assign responsibility to others. They are often hostile, irritable, and angry. Bigots, injustice collectors, pathologically jealous spouses, and litigious cranks often have paranoid PD.
+
+    _Epidemiology:
+    -Prevalence of paranoid PD is %(2-4) of the general population.
+    -Relatives of patients with schizophrenia show a higher incidence of paranoid PD than control participants. Some evidence suggests a more specific familial relationship with delusional disorder, persecutory type.
+    -The disorder is more commonly diagnosed in men than in women in clinical samples.
+    -{The prevalence among persons who are homosexual is no higher than usual, as once thought}, but it is believed to be higher among minority groups, immigrants, and persons who are deaf than it is in the general population.
+
+    _Diagnosis:
+    -On psychiatric examination, patients with paranoid PD may be formal in manner and act baffled about having to seek psychiatric help.
+    -Muscular tension, an inability to relax, and a need to scan the environment for clues may be evident, and the patient's manner is often humorless and serious.
+    -Although some premises of their arguments may be false, their speech is goal directed and logical. Their thought content shows evidence of projection, prejudice, and occasional ideas of reference.
+
+    _Criteria: DSM-5
+
+    _Clinical features:
+    -The hallmarks of paranoid PD are excessive suspiciousness and distrust of others expressed as a pervasive tendency to interpret actions of others as deliberately demeaning, malevolent, threatening, exploiting, or deceiving.
+    -This tendency begins by early adulthood and appears in a variety of contexts.
+    -Almost invariably, those with the disorder expect to be exploited or harmed by others in some way. They frequently dispute, without any justification, friends' or associates' loyalty or trustworthiness.
+    -They are often pathologically jealous and for no reason, question the fidelity of their spouses or sexual partners.
+    -They externalize their own emotions and use the defense of projection; they attribute to others the impulses and thoughts that they cannot accept in themselves.
+    -Ideas of reference and logically defended illusions are common.
+    -They are affectively restricted and appear to be unemotional. They pride themselves on being rational and objective, but such is not the case.
+    -They lack warmth and are impressed with, and pay close attention to ,power and rank. They express disdain for those they see as weak, sickly, impaired, or in some way defective.
+    -In social situations, persons with paranoid PD may appear business-like and efficient, but they often generate fear or conflict in others.
+
+    _Differential Diagnosis:
+    -paranoid PD can usually be differentiated from delusional disorder by the absence of fixed delusions.
+    -Unlike paranoid schizophrenia, those with PDs have no hallucinations or formal thought disorder.
+    -Paranoid PD can be distinguished from borderline PD because patients who are paranoid are rarely capable of overly involved, tumultuous relationships with others.
+    -Patients with paranoia lack the long history of antisocial behavior of persons with antisocial character.
+    -Persons with schizoid personality disorder are withdrawn and aloof and do not have paranoid ideation.
+
+    _Course and Prognosis:
+    -{In some studies, paranoid PD is lifelong; in others, it is a harbinger of schizophrenia.
+    -In still other studies, paranoid traits give way to reaction formation, appropriate concern with morality, and alturistic concerns as they mature or as stress diminishes.}
+    -In general, those with paranoid PD have lifelong problems working and living with others. Occupational and marital problems are common.
+
+    _Treatment:
+        _Psychotherapy:
+        -It is the treatment of choice.
+        -Therapists should be straightforward in all their dealings with these patients. If a therapist is accused of inconsistency or a fault, such as lateness for an appointment, honesty and an apology are preferable to a defensive explanation. Therapists must remember that trust and toleration of intimacy are troubled areas for patients with this disorder.
+        -Individual psychotherapy thus requires a professional and not overly warm style from therapists.
+        -Patients usually do not do well in group therapy, although it can be useful for improving social skills and diminishing suspiciousness.
+        -Many can not tolerate the intrusiveness of behavior therapy, also used for social skills training.
+        -Delusional accusations must be dealt with realistically but gently and without humiliating patients.
+        -Patients who are paranoid are profoundly frightened when they feel that those trying to help them are weak and helpless; therefore, therapists should never offer to take control unless they are willing and able to do so.
+
+        _Pharmacotherapy:
+        -It is useful in dealing with agitation and anxiety. In most cases, an antianxiety agent such as diazepam (Valium) suffices.
+        -It may be necessary to use an antipsychotic such as haloperidol (Haldol) in small dosages and for brief periods to manage severe agitation or quasi-delusional thinking. Pimozide (Orap) has successfully reduced paranoid ideation in some patients.
+        
+    _Notes:
+    Those with paranoid PD rarely seek treatment themselves; when referred to treatment by a spouse or an employer, they can often pull them-selves together and appear undistressed.
+
+Schizoid Personality Disorder:
