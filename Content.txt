@@ -118,3 +118,55 @@ Paranoid Personality Disorder:
     Those with paranoid PD rarely seek treatment themselves; when referred to treatment by a spouse or an employer, they can often pull them-selves together and appear undistressed.
 
 Schizoid Personality Disorder:
+-Schizoid PD is characterized by a lifelong pattern of social withdrawal. Persons with schizoid PD are often seen by others as eccentric, isolated, or lonely. Their discomfort with human interaction; their introversion; and their bland, constricted affect are noteworthy.
+
+    _Epidemiology:
+    -The disorder may affect %5 of the general population.
+    -The sex ratio of the disorder is unknown; some studies report a 2:1 male:to female ratio.
+    
+    _Diagnosis:
+    -On an initial examination, patients with schizoid PD may appear ill at ease. They rarely tolerate eye contact, and interviewers may surmise that such patients are eager for the interview to end.
+    -Their affect may be constricted, aloof, or inappropriately serious, but underneath the aloofness, sensitive clinicians can recognize fear.
+    -Their efforts at humor may seem adolescent and off the mark. Their speech is goal directed, but they are likely to give short answers to questions and to avoid spontaneous conversation.
+    -They may occasionally use unusual figures of speech, such as an odd metaphor, and may be fascinated with inanimate objects or metaphysical constructs.
+    -They may have an unwarranted sense of intimacy with persons they do not know well or whom they have not seen for a long time.
+    -Their sensorium is intact, their memory functions well, and their proverb interpretations are abstract.
+
+    _Criteria: DSM-5
+
+    _Clinical features:
+    -Persons with schizoid PD seem to be cold and aloof; they display a remote reserve and show no involvement with everyday events and the concerns of others. They appear quiet, distant, seclusive, and unsociable.
+    -They may pursue their own lives with remarkably little need or longing for emotional ties and they are the last to be aware of changes in popular fashion.
+    -The life histories of such persons reflect solitary interests and success at noncompetitive, lonely jobs that others find difficult to tolerate.
+    -Their sexual lives may exist exclusively in fantasy, and they may postpone mature sexuality indefinitely.
+    -Men may not marry because they are unable to achieve intimacy; women may passively agree to marry an agressive man who wants the marriage.
+    -They can invest enormous affective energy in nonhuman interests, such as mathematics and astronomy, and they may be very attached to animals.
+    -Dietary and health fads, philosophical movements, and social improvement schemes, especially those that require no personal involvement, often engross them.
+    -Persons with schizoid PD usually reveal a lifelong inability to express anger directly, and because aggressive acts are rarely included in their repertoire of usual responses, most threats, real or imagined, are dealt with by fantasized omnipotence or resignation.
+    -Although persons with schizoid PD appear self-absorbed and lost in daydreams, they have a normal capacity to recognize reality, and although they are often seen as aloof, yet such persons can sometimes conceive, develop, and give to the world genuinely original, creative ideas.
+
+    _Differential Diagnosis:
+    -Schizoid PD is distinguished from schizophrenia, delusional disorder and affective disorder with psychotic features based on periods with psychotic symptoms, such as delusions and hallucinations in the latter.
+    -Although patients with paranoid PD share many traits with those with schizoid PD, the former exhibit more social engagement, a history of aggressive verbal behavior, and a greater tendency to project their feelings onto others.
+    -Theoretically, the chief distinction between a patient with schizotypal PD and one with schizoid PD is that the patient who is schizotypal is more similar to a patient with schizophrenia in oddities of perception, thought, behavior, and communication.
+    -If just as emotionally constricted, patients with obsessive-compulsive and avoidant PDs experience loneliness as dysphoric, possess a richer history of past object relations, and do not engage as much in autistic reverie.
+    -Patients with avoidant PD are isolated but strongly wish to participate in activities, a characteristic absent in those with schizoid PD.
+    -Schizoid PD is distinguished from autistic disorder and Asperger's syndrome by more severely impaired social interactions and stereotypical behaviors and interests than in those 2 disorders.
+
+    _Course and Prognosis:
+    -The onset of schizoid PD usually occurs in early chilhood or adolescence.
+    -As with all PDs, schizoid PD is long lasting but not necessarily lifelong.
+    -The proportion of patients who incur schizophrenia is unknown.
+
+    _Treatment:
+        _Psychotherapy:
+        -Patients who are schizoid tend toward introspection; however, these tendencies are consistent with psychotherapists' expectations, and such patients may become devoted, if distant patients.
+        -As trust develops, patients who are schizoid may, with great trepidation, reveal a plethora of fantasies, imaginary friends, and fears of unbearable dependence, even of merging with the therapist.
+        -In group therapy settings, patients with scizoid PD may be silent for long periods; nonetheless, they do become involved. The patients should be protected against aggressive attack by group members for their proclivity to be silent.
+        -With time, the group members become important to patients who are schizoid and may provide the only social contact in their otherwise isolated existence.
+
+        _Pharmacotherapy:
+        -Pharmacotherapy with small dosages of antipsychotics, antidepressants, and psychostimulants has benefitted some patients.
+        -Serotonergic agents may make patients less sensitive to rejection.
+        -Benzodiazepines may help diminish interpersonal anxiety.
+
