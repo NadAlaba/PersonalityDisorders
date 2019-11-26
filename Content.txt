@@ -18,16 +18,16 @@ Cluster A: Odd and aloof features (Syn Ch22)
 
 Cluster B: Dramatic, Impulsive and erratic features (Syn Ch22)
 (Syn Ch6)
-4. Histrionic Personality Disorder: is characterized by emotional instability, excitability, over-reactivity, vanity, immaturity, dependency, and self-dramatization that is attention seeking and seductive.
-5. Antisocial Personality Disorder: covers persons in conflict with society. They are incapable of loyalty, selfish, callous, irresponsible, impulsive, and unable to feel guilt or learn from experiences; they have low levels of frustration tolerance and a tendency to blame others.
-6. Narcissistic Personality Disorder: is characterized by grandiose feelings, a sense of entitlement, a lack of empathy, envy and a tendency to blame others.
-7. Borderline Personality Disorder: is characterized by instability, impulsiveness, chaotic sexuality, suicidal acts, self-mutilating behavior, identity problems, ambivalence, and feeling of emptiness and boredom.
+4. Antisocial Personality Disorder: covers persons in conflict with society. They are incapable of loyalty, selfish, callous, irresponsible, impulsive, and unable to feel guilt or learn from experiences; they have low levels of frustration tolerance and a tendency to blame others.
+5. Borderline Personality Disorder: is characterized by instability, impulsiveness, chaotic sexuality, suicidal acts, self-mutilating behavior, identity problems, ambivalence, and feeling of emptiness and boredom.
+6. Histrionic Personality Disorder: is characterized by emotional instability, excitability, over-reactivity, vanity, immaturity, dependency, and self-dramatization that is attention seeking and seductive.
+7. Narcissistic Personality Disorder: is characterized by grandiose feelings, a sense of entitlement, a lack of empathy, envy and a tendency to blame others.
 
 Cluster C: anxious and fearful features (Syn Ch22)
 (Syn Ch6)
-8. Obsessive-Compulsive Personality Disorder (OCPD): is characterized by excessive concern with conformity and standards of conscience; the individual may be rigid, overconscientious, overdutiful, overinhibited, and unable to relax (three Ps - punctual, parsimonius and precise).
-9. Avoidant Personality Disorder: is characterized by low levels of energy, easy fatigability, lack of enthusiasm, inability to enjoy life and oversensitivity to stress.
-10. Dependent Personality Disorder:is characterized by passive and submissive behavior; the person is unsure of himself or herself and becomes entirely dependent on others.
+8. Avoidant Personality Disorder: is characterized by low levels of energy, easy fatigability, lack of enthusiasm, inability to enjoy life and oversensitivity to stress.
+9. Dependent Personality Disorder:is characterized by passive and submissive behavior; the person is unsure of himself or herself and becomes entirely dependent on others.
+10. Obsessive-Compulsive Personality Disorder (OCPD): is characterized by excessive concern with conformity and standards of conscience; the individual may be rigid, overconscientious, overdutiful, overinhibited, and unable to relax (three Ps - punctual, parsimonius and precise).
 
 Personality Changes Due to Another Medical Condition: This category includes alterations to a personality due to a medical condition (e.g, brain tumor).
 Unspecified Personality Disorder: This category involves other personality traits that do not fit any of the patterns described above.
@@ -169,4 +169,54 @@ Schizoid Personality Disorder:
         -Pharmacotherapy with small dosages of antipsychotics, antidepressants, and psychostimulants has benefitted some patients.
         -Serotonergic agents may make patients less sensitive to rejection.
         -Benzodiazepines may help diminish interpersonal anxiety.
+
+Schizotypal Personality Disorder:
+-Persons with schizotypal PD are strikingly odd or strange, even to laypersons.
+-Magical thinking, peculiar notions, ideas of reference, illusions, and derealization are part of a schizotypal person's everyday world.
+
+    _Epidemilogy:
+    -Schizotypal PD occurs in about %3 of the population.
+    -The sex ratio in unknown; however it is frequently diagnosed in females with fragile X syndrome. DSM-5 suggests the disorder may be slightly more common in males.
+    -A greater association of cases exists among the biological relatives of patients with schizophrenia than among control participants.
+    -A higher incidence among monozygotic twins than among dizygotic twins (%33 vs %4 in one study).
+
+    _Etiology:
+    -Adoption, family, and twin studies demonstrate an increased prevalence of schizotypal features in the families of schizophrenic patients, especially when schizotypal features were not associated with comorbid affective symptoms.
+
+    _Diagnosis:
+    -Schizotypal PD is diagnosed on the basis of the patients' pecularities of thinking, behavior, and appearance.
+    -Taking a history may be difficult because of the patients' unusual way of communicating.
+    
+    _Criteria: DSM-5
+
+    _Clinical Features:
+    -Patients with schizotypal PD exhibit disturbed thinking and communicating. Although frank thought disorder is absent, their speech may be distinctive or peculiar, may have meaning only to them, and often needs interpretation.
+    -As with patients with schizophrenia, those with schizotypal PD may not know their own feelings and yet are exquisitely sensitive to, and aware of, the feelings of others, especially negative affects such as anger.
+    -These patients may be superstitious or claim powers of clairvoyance and may believe that they have other special powers of thought and insight.
+    -Their inner world may be filled with vivid imaginary relationships and child-like fears and fantasies.
+    -They may admit to perceptual illusions or macropsia and confess that other persons seem wooden and all the same.
+    -Because persons with schizotypal PD have poor interpersonal relationships and may act inappropriately, they are isolated and have few, if any, friends.
+    -Patients may show features of borderline PD, and indeed, both diagnoses can be made.
+    -Under stress, patients with schizotypal PD may decompensate and have psychotic symptoms, but these are usually brief.
+    -Patients with severe cases of the disorder may exhibit anhedonia and severe depression.
+
+    _Differential Diagnosis:
+    -Theoretically, persons with schizotypal PD can be distinguished from those with schizoid and avoidant PDs by the presence of oddities in their behavior, thinking, perception, and communication and perhaps by a clear family history of schizophrenia.
+    -Patients with schizotypal PD can be distinguished from those with schizophrenia by their absence of psychosis. If psychotic symptoms do appear, they are brief and fragmentary.
+    -Some patients meet the criteria for both schizotypal PD and borderline PD.
+    -Patients with paranoid PD are characterized by suspiciousness but lack the odd behavior of patients with schizotypal PD.
+
+    -Course and Prognosis:
+    -According to current clinical thinking, the schizotype is the premorbid personality of the patient with schizophrenia.
+    -Some patients, however, maintain a stable schizotypal personality through-out their lives and marry and work, despite their oddities.
+    -A long term study by "Thomas McGlashan reported that %10 of those with schizotypal PD eventually committed suicide.
+
+    _Treatment:
+        _Psychotherapy:
+        -The principles of treatment of schizotypal PD do not differ from those of schizoid PD, but clinicians must deal sensitively with the former.
+        -These patients have peculiar patterns of thinking, and some are involved in cults, strange religious practices, and the occult. Therapists must not redicule such activities or be judgmental about these beliefs or activities.
+
+        _Pharmacotherapy:
+        -Antipsychotic medication may be useful in dealing with ideas of reference, illusions, and other symptoms of the disorder and can be used in conjunction with psychotherapy.
+        -Antidepressants are useful when a depressive component of the personality is present.
 
