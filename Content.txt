@@ -174,7 +174,7 @@ Schizotypal Personality Disorder:
 -Persons with schizotypal PD are strikingly odd or strange, even to laypersons.
 -Magical thinking, peculiar notions, ideas of reference, illusions, and derealization are part of a schizotypal person's everyday world.
 
-    _Epidemilogy:
+    _Epidemiology:
     -Schizotypal PD occurs in about %3 of the population.
     -The sex ratio in unknown; however it is frequently diagnosed in females with fragile X syndrome. DSM-5 suggests the disorder may be slightly more common in males.
     -A greater association of cases exists among the biological relatives of patients with schizophrenia than among control participants.
@@ -220,3 +220,57 @@ Schizotypal Personality Disorder:
         -Antipsychotic medication may be useful in dealing with ideas of reference, illusions, and other symptoms of the disorder and can be used in conjunction with psychotherapy.
         -Antidepressants are useful when a depressive component of the personality is present.
 
+Antisocial Personality Disorder:
+-Antisocial PD is an inability to conform to the social norms that ordinarily govern many aspects of a person's adolescent and adult behavior.
+-Although characterized by continual antisocial or criminal acts, the disorder is not synonymous with criminality.
+
+    _Epidemiology:
+    -The 12-month prevalence rates of antisocial PD are between %(0.2-3) according to DSM-5.
+    -It is more common in poor urban areas and among mobile residents of these areas.
+    -The highest prevalence of antisocial PD is found among the most severe samples of men with alcohol use disorder (over %70) and in prison population, where the prevalence may be as high as %75.
+    -It is much more common in males than in females.
+    -Boys with the disorder come from larger families than girls {large families affect boys more than girls}.
+    -The onset of the disorder is before the age of 15 years. Girls usually have symptoms before puberty and boys even earlier.
+    -A familial pattern is present; the disorder is 5 times more common among first-degree relatives of men with the disorder than among control participants.
+
+    _Diagnosis:
+    -Patients with antisocial PD can fool even the most experienced clinicians. In an interview, patients can appear composed and credible, but beneath the veneer (the mask of sanity "Hervey Cleckley's term") lurks tension, hostility, irritability, and rage.
+    -A stress interview, in which patients are vigorously confronted with inconsistencies in their histories, may be necessary to reveal the pathology.
+    -A diagnostic workup should include a thorough neurological examination. Because patients often show abnormal EEG results and soft neurological signs suggesting minimal brain damage in childhood, these findings can be used to confirm the clinical impression.
+
+    _Criteria: DSM-5
+
+    _Clinical Features:
+    -Patients with antisocial PD can often seem to be normal and even charming and ingratiating. Their histories, however, reveal many areas of disordered life functioning.
+    -Lying, truancy, running awway from home, thefts, fights, substance abuse, and illegal activities are typical experiences that patients report as beginning in childhood.
+    -These patients often impress opposite-sex clinicians with the colorful, seductive aspects of their personalities, but same-sex clinicians may regard them as manipulative and demanding.
+    -Patients with antisocial PD exhibit no anxiety or depression, a lack that may seem grossly incongruous with their situations, although suicide threats and somatic preoccupations may be common.
+    -Their own explanations of their antisocial behavior make it seem mindless, but their mental content reveals the complete absence of delusions and other signs of irrational thinking and often impress observers as having good verbal intelligence.
+    -Persons with antisocial PD are highly representative of so-called con men. They are extremely manipulative and can frequently talk others into participating in schemes for easy ways to make money or to achieve fame or notoriety. These schemes may eventually lead the unwary to financial ruin or social embarrassment or both.
+    -Those with this disorder do not tell the truth and cannot be trusted to carry out any task or adhere to any conventional standard of morality.
+    -Promiscuity, spousal abuse, child abuse, and drunk driving are common events in their lives.
+    -A notable finding is a lack of remorse for these actions; that is, they appear to lack a conscience.
+
+    _Differential Diagnosis:
+    -Antisocial PD can be distinguished from illegal behavior in that antisocial PD involves many areas of a person's life. When illegal behavior is only for gain and is not accompanied by the rigid, maladaptive, and persistent personality traits characteristic of a PD, it is classified as criminal behavior not associated with a PD according to DSM-5.
+    -"Dorothy Lewis" found that many of these persons have a neurological or mental disorder that has been either overlooked or undiagnosed.
+    -More difficult is the differentiation of antisocial PD from substance abuse. When both substance abuse and antisocial behavior begin in childhood and continue into adult life, both disorders should be diagnosed. When, however, the antisocial behavior is clearly secondary to premorbid alcohol abuse or other substance abuse, the diagnosis of antisocial PD is not warranted.
+    -In diagnosing antisocial PD, clinicians must adjust for the distorting effects of socioeconomic status, cultural background, and sex. Furthermore, the diagnosis of antisocial PD is not warranted when intellectual disability, schizophrenia, or mania can explain the symptoms.
+
+    _Course and Prognosis:
+    -Antisocial PD runs an unremitting course, with the height of antisocial behavior usually occurring in late adolescence.
+    -The prognosis varies. Some reports indicate that symptoms decrease as persons grow older.
+    -Many patients have somatization disorder and multiple physical complaints.
+    -Depressive disorders, alcohol use disorders, and other substance abuse are common.
+
+    _Treatment:
+        _Psychotherapy:
+        -Self-help groups have been more useful than jails in alleviating the disorder; because when patients feel that they are among peers, their lack of motivation for change disappears.
+        -Before treatment can begin, firm limits are essential.
+        -Therapists must find ways of dealing with patients' self-destructive behavior. And to overcome patients' fear of intimacy, therapists must frustrate patients' desire to run from honest human encounters. In doing so, therapists face the challenge of separating control from punishment and of separating help and confrontation from social isolation and retribution.
+
+        _Pharmacotherapy:
+        -It is used to deal with incapacitating symptoms such as anxiety, rage, and depression, but because patients are often substance abusers, drugs must be used judiciously.
+        -If a patient shows evidence of ADHD, psychostimulants such as methylphenidate (Ritalin) may be useful.
+        -Attempts have been made to alter catecholamine metabolism with drugs and to control impulsive behavior with antiepileptic drugs, for example, carbamazepine (Tegretol) or Valproate (Depakote), especially if abnormal waveforms are noted on an EEG.
+        -B-Adrenergic receptor antagonists have been used to reduce aggression.
